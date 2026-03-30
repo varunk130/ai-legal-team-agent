@@ -62,24 +62,19 @@ Four specialized agents work in concert on every analysis:
 
 ### Document Support
 
-Upload and analyze **PDF**, **TXT**, and **DOCX** files. Five sample contracts included for testing.
+Upload and analyze **PDF**, **TXT**, and **DOCX** files. Sample contracts (NDA, SaaS agreement) included for testing.
 
 ---
 
 ## Quick Start
 
-### Python / Streamlit
+### Python / Streamlit (Coming Soon)
+
+The full Streamlit application (`app.py`) and Node.js server (`server.js`) are planned additions. Currently, the repo contains the Claude Code skills and sample contracts for immediate use.
 
 ```bash
-pip install -r requirements.txt
-streamlit run app.py
-```
-
-### Node.js / Express
-
-```bash
-npm install
-node server.js
+# Use the Claude Code skills directly
+cp -r skills/* ~/.claude/skills/
 ```
 
 → See [docs/QUICKSTART.md](docs/QUICKSTART.md) for detailed guide.
@@ -109,6 +104,9 @@ cp -r skills/* ~/.claude/skills/
 ai-legal-team-agent/
 ├── README.md
 ├── LICENSE
+├── requirements.txt
+├── sample_nda.txt
+├── sample_saas_agreement.txt
 ├── docs/
 │   ├── QUICKSTART.md
 │   └── EXECUTIVE_SUMMARY.md
