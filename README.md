@@ -105,8 +105,9 @@ ai-legal-team-agent/
 ├── README.md
 ├── LICENSE
 ├── requirements.txt
-├── sample_nda.txt
-├── sample_saas_agreement.txt
+├── samples/
+│   ├── sample_nda.txt
+│   └── sample_saas_agreement.txt
 ├── docs/
 │   ├── QUICKSTART.md
 │   └── EXECUTIVE_SUMMARY.md
