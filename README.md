@@ -1,6 +1,6 @@
 # ⚖️ AI Legal Team Agent
 
-A multi-agent AI system for legal document analysis — four specialized agents collaborate to deliver compliance assessments, risk identification, strategic recommendations, and redline suggestions.
+A multi-agent AI system for legal document analysis — four specialized agents collaborate to deliver comprehensive compliance assessments, risk identification, strategic recommendations, and redline suggestions.
 
 ![AI Legal Team Agent Dashboard](screenshots/ai-legal-agent-team-dashboard.png)
 
@@ -27,7 +27,7 @@ The project ships with **two independent versions**:
 | **Python / Streamlit** | Streamlit, PyPDF2, python-docx, pandas | `app.py` |
 | **Node.js / Express** | Express, React 18 (CDN), Tailwind CSS, Multer | `server.js` + `public/index.html` |
 
-Both versions offer the same core analysis workflow. Currently running with mock AI responses — designed for seamless Claude API integration.
+Both versions offer the same core analysis workflow. Currently running with mock AI responses — designed for seamless integration with the Claude API.
 
 ---
 
