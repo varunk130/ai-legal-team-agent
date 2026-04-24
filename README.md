@@ -68,16 +68,19 @@ Upload and analyze **PDF**, **TXT**, and **DOCX** files. Sample contracts (NDA, 
 
 ## Quick Start
 
-### Python / Streamlit (Coming Soon)
+### Get Started with Skills
 
-The full Streamlit application (`app.py`) and Node.js server (`server.js`) are planned additions. Currently, the repo contains the Claude Code skills and sample contracts for immediate use.
+The Claude Code skills and sample contracts are ready for immediate use. The full Streamlit application and Node.js server are planned additions.
 
 ```bash
-# Use the Claude Code skills directly
-cp -r skills/* ~/.claude/skills/
+# Clone the repo
+git clone https://github.com/varunk130/ai-legal-team-agent.git
+
+# Copy skills to your Claude Code environment
+cp -r ai-legal-team-agent/skills/* ~/.claude/skills/
 ```
 
-→ See [docs/QUICKSTART.md](docs/QUICKSTART.md) for detailed guide.
+→ See [docs/QUICKSTART.md](docs/QUICKSTART.md) for the detailed setup guide.
 
 ---
 
