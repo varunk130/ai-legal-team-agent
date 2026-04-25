@@ -27,7 +27,7 @@ The project ships with **two independent versions**:
 | **Python / Streamlit** | Streamlit, PyPDF2, python-docx, pandas | `app.py` |
 | **Node.js / Express** | Express, React 18 (CDN), Tailwind CSS, Multer | `server.js` + `public/index.html` |
 
-Both versions offer the same core analysis workflow. Currently running with mock AI responses — designed for seamless integration with the Claude API.
+Both versions offer the same core analysis workflow. Currently running with mock AI responses — designed for seamless integration with the Claude API or other LLM providers.
 
 ---
 
