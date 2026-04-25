@@ -1,6 +1,6 @@
 # ⚖️ AI Legal Team Agent
 
-A multi-agent AI system for legal document analysis — four specialized agents collaborate to deliver comprehensive compliance assessments, risk identification, strategic recommendations, and redline suggestions.
+A multi-agent AI system for legal document analysis — four specialized agents collaborate in parallel to deliver comprehensive compliance assessments, risk identification, strategic recommendations, and redline suggestions.
 
 ![AI Legal Team Agent Dashboard](screenshots/ai-legal-agent-team-dashboard.png)
 
