@@ -35,7 +35,7 @@ Both versions offer the same core analysis workflow. Currently runs with mock AI
 
 ### Multi-Agent Collaboration
 
-Four specialized agents work in concert on every analysis:
+Four specialized agents collaborate on every analysis, each owning a distinct perspective:
 
 - **Team Lead** — Coordinates analysis, synthesizes findings, delivers the final report
 - **Contract Analyst** — Deep-dives into contract terms, clause structure, obligations
