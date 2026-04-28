@@ -137,5 +137,5 @@ ai-legal-team-agent/
 
 <p align="center">
   <strong>Built by Varun Kulkarni</strong><br/>
-  <sub>Powered by Claude Code</sub>
+  <sub>Powered by Claude Code Opus 4.7 + GitHub Copilot</sub>
 </p>
