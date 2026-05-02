@@ -27,7 +27,7 @@ The project ships with **two independent versions**:
 | **Python / Streamlit** | Streamlit, PyPDF2, python-docx, pandas | `app.py` |
 | **Node.js / Express** | Express, React 18 (CDN), Tailwind CSS, Multer | `server.js` + `public/index.html` |
 
-Both versions offer the same core analysis workflow. Currently runs with mock AI responses, designed for seamless integration with the Claude API or other LLM providers.
+Both versions offer the same core analysis workflow. Currently runs with mock AI responses; the path from mock to a real Claude API integration is documented in [`docs/REAL_API_MODE.md`](docs/REAL_API_MODE.md), with per-agent system prompts decoupled into [`prompts/`](prompts/) and a single `analyze()` seam per backend ready to wire up. **No external API calls are wired in this codebase today** — the scaffolding is opt-in for self-hosted deployments only.
 
 ---
 
