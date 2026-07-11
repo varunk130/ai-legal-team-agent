@@ -7,7 +7,7 @@
 <p align="center">
   <strong>Agents · Skills · an operating system for legal work.</strong><br/>
   One master AI agent that runs the whole legal workflow — intake, review, redline,
-  negotiate, comply, research, diligence and obligation tracking — not just a chat box.
+  negotiate, comply, research, diligence, and obligation tracking — not just a chat box.
 </p>
 
 <p align="center">
