@@ -173,6 +173,10 @@ lib/
     suites.ts        Golden set (20 prompts) + LLM-as-a-judge scoring
 ```
 
+## 📄 License
+
+Released under the [MIT License](LICENSE).
+
 ---
 
 <p align="center"><sub>Built as an internal showcase. Synthetic data · deterministic mocks · not legal advice.</sub></p>
