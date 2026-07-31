@@ -173,6 +173,14 @@ lib/
     suites.ts        Golden set (20 prompts) + LLM-as-a-judge scoring
 ```
 
+## 🔗 Related projects
+
+Part of a broader portfolio of AI agent and skill repositories:
+
+- [`ai-marketing-os`](https://github.com/varunk130/ai-marketing-os) — 9 marketing agents, 12 skills, end-to-end missions
+- [`ai-revops`](https://github.com/varunk130/ai-revops) — 9 agents take a company into a new market end to end
+- [`ai-gtm-skill-library`](https://github.com/varunk130/ai-gtm-skill-library) — 31 opinionated GTM skills
+
 ## 📄 License
 
 Released under the [MIT License](LICENSE).
